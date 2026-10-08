@@ -51,25 +51,25 @@ experience than relying only on the default Excel slicer interface.
 
   Technique                           Purpose
 
-  **Power Query**                     Built a standalone calendar table
+  - **Power Query**                     Built a standalone calendar table
                                       (Date, Month, Year) from scratch
                                       and used it as the base for
                                       time-based filtering
 
-  **Power Pivot (Data Model)**        Created relationships between the
+  - **Power Pivot (Data Model)**        Created relationships between the
                                       raw patient data table and the
                                       calendar table so calculations work
                                       correctly across both tables
 
-  **Pivot Tables & Pivot Charts**     Built analysis for admissions, wait
+  - **Pivot Tables & Pivot Charts**     Built analysis for admissions, wait
                                       times, satisfaction scores, patient
                                       volume, and other ER metrics
 
-  **Slicers**                         Used slicer functionality for
+  - **Slicers**                         Used slicer functionality for
                                       interactive filtering across
                                       dashboard components
 
-  **VBA (Macros)**                    Connected custom dashboard Shapes
+  - **VBA (Macros)**                    Connected custom dashboard Shapes
                                       to PivotTable/Slicer filtering
                                       logic so clicking a Shape updates
                                       the selected period and refreshes
