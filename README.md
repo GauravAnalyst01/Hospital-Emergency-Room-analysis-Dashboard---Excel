@@ -75,7 +75,7 @@ experience than relying only on the default Excel slicer interface.
                                       the selected period and refreshes
                                       the dashboard
 
-  **Dashboard Design**                Combined KPI cards, sparklines,
+  - **Dashboard Design**                Combined KPI cards, sparklines,
                                       donut/pie charts, bar charts,
                                       tables, and custom filter controls
                                       into one MIS-style report
