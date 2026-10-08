@@ -6,7 +6,7 @@ satisfaction scores. The project uses a proper Power Pivot data model
 instead of flat pivot tables, so the reporting is dynamic and time-based
 filtering works correctly.
 
-![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)![Power Pivot](https://img.shields.io/badge/Engine-Power%20Pivot-2C5F91?style=flat)![VBA](https://img.shields.io/badge/Automation-VBA-217346?style=flat)![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+![Excel](https://img.shields.io/badge/Tool-Microsoft%20Excel-217346?style=flat&logo=microsoft-excel&logoColor=white) ![Power Pivot](https://img.shields.io/badge/Engine-Power%20Pivot-2C5F91?style=flat) ![VBA](https://img.shields.io/badge/Automation-VBA-217346?style=flat) ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ------------------------------------------------------------------------
 
