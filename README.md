@@ -50,7 +50,7 @@ experience than relying only on the default Excel slicer interface.
 ## 🛠️ Tools & Techniques
 
   Technique                           Purpose
-  ----------------------------------- -----------------------------------
+
   **Power Query**                     Built a standalone calendar table
                                       (Date, Month, Year) from scratch
                                       and used it as the base for
