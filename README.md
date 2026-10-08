@@ -206,8 +206,8 @@ This provides:
 
   📊 Patients by Department Referral  Highest-demand departments
 
-  📈 KPI Trend Charts                 Daily trends for patient count,
-                                      wait time, and satisfaction
+  📈 KPI Trend Charts                 Daily trends for patient count, wait time, and satisfaction
+-----------------------------------------------------------------------
   -----------------------------------------------------------------------
 
 ------------------------------------------------------------------------
